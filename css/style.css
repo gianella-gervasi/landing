@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Cinzel+Decorative");
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family:"lora",serif;
+	font-size:18px;
+	margin: 0px;
+}
+
+h1{
+	font-family:"Cinzel Decorative", cursive;
+	font-weight:bold;
+}
+#hungry{
+margin-top:30px;
+margin-bottom: 30px;
+}
+
+a{
+text-decoration: none;
+}
+
+h2, h4{
+	margin-top: 50px;
+}
+
+h3{
+	margin-bottom:20px;
+}
+
+h2,h3,h4{
+font-size:22px;
+font-weight: bold;
+}
+
